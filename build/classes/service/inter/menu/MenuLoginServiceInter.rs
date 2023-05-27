@@ -1,0 +1,1 @@
+service.inter.menu.MenuLoginServiceInter
